@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/88239355?s=400&u=0e1411756dd3c02f8a909d21179d4022ae95ba44&v=4" alt="AbIoTsLOGO"/>
+    <img src="https://avatars.githubusercontent.com/u/88239121?v=4" alt="AbIoTsLabLOGO"/>
 </div>
 
 # Motion Detector using ESP32 with ESP-IDF and C++ using platformIO
