@@ -1,0 +1,15 @@
+menu "Pir component"
+config PIR_SENSITIVITY_MS
+int "Pir Component Sensitivity in milliSeconds"
+default 500
+range 500 2000
+help 
+    How frequently should we read the data from the PIR sensor
+    in milli seconds.
+config PIR_KEEP_ALIVE_S
+int "Keep alive duration in seconds"
+default 5
+range 5 300
+help
+    Keep alive duration once the motion is detected.
+endmenu # Pir Component
