@@ -4,6 +4,10 @@
 
 # ESP32 Playground Series using ESP-IDF and C++ using platformIO
 
+* This tutorial will teach us how to create Motion detector by using Pir sensor, ESP32 and solid state relay. 
+* The code is written in c++.
+* ESP-IDF and FreeRTOS are used.
+
 ### License
 Code in this repository is in the Public Domain (or CC0 licensed, at your option.) Unless required by applicable law or agreed to in writing, this software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
